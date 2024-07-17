@@ -11,4 +11,8 @@
 
 ## Week 02:
     
-1. Conditional Statements
+Conditional Statements
+
+## Week 03:
+
+Lambda Function
