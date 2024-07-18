@@ -16,5 +16,5 @@ Conditional Statements
 ## Week 03:
 
 1. Lambda Function
-2. String Manipulation
-3. 
+2. Modules
+3. String Manipulation
