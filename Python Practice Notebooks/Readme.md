@@ -1,5 +1,7 @@
+# About:
+<p> I have also learned python from this documentation. It almost contains every topic of python basics. This is a complete documentation that covers </p>
+
 ## Week 01:
-<p> A complete documentation for beginners that covers </p>
 
 1. Types of numbers in Python
 2. Variable Assignment and Working with Numbers
