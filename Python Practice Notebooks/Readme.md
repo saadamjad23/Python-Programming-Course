@@ -18,3 +18,9 @@ Conditional Statements
 1. Lambda Function
 2. Modules
 3. String Manipulation
+
+## Week 04:
+
+1. Exceptions in python
+2. File Handling
+3. Object Oriented Classes
